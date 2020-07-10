@@ -1,0 +1,75 @@
+{
+  "chats": [
+    {
+      "columns": [
+        {
+          "title": "Redmi Note 9 Pro",
+          "text": "Rp 3.400.000",
+          "image_url": "https://gizmologi.id/wp-content/uploads/2020/03/redmi_note_9_pro_3.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "5f06d6c720f83730309ddf1d",
+              "variable": {
+                "nama_produk": "Redmi Note 9 Pro",
+                "harga_produk": "3.400.000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f05303220f8373f864b31f0"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Samsung S20 Ultra",
+          "text": "Rp 18.500.000",
+          "image_url": "https://i.ytimg.com/vi/MjBY_Y9N3Us/maxresdefault.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "5f06d6c720f83730309ddf1d",
+              "variable": {
+                "nama_produk": "Samsung S20 Ultra",
+                "harga_produk": "18.500.000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f05303220f8373f864b31f0"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Samsung Galaxy Z Flip",
+          "text": "Rp 22.000.000",
+          "image_url": "https://images.samsung.com/ae/smartphones/galaxy-z-flip/images/galaxy-z-flip-share-image.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "5f06d6c720f83730309ddf1d",
+              "variable": {
+                "nama_produk": "Samsung Galaxy Z Flip",
+                "harga_produk": "22.000.000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f05303220f8373f864b31f0"
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    }
+  ]
+}
