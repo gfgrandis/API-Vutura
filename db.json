@@ -1,300 +1,306 @@
 {
-  "chats": [
-    {
-      "columns": [
+  "iphone":
+  {
+    "chats": [
         {
-          "title": "Iphone 11",
-          "text": "Rp 17.000.000",
-          "image_url": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-4195877/apple_iphone_11_256_gb_-nano_simcard_-_esim-_full15.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Iphone 11",
-                "harga_produk": "17.000.000"
+        "columns": [
+          {
+            "title": "Iphone 11",
+            "text": "Rp 17.000.000",
+            "image_url": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-4195877/apple_iphone_11_256_gb_-nano_simcard_-_esim-_full15.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Iphone 11",
+                  "harga_produk": "17.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "Iphone X",
-          "text": "Rp 12.000.000",
-          "image_url": "https://dionlineaja.id/image/cache/catalog/product/apple/X%2064GB-800x800.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Iphone X",
-                "harga_produk": "12.500.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Iphone X",
+            "text": "Rp 12.000.000",
+            "image_url": "https://dionlineaja.id/image/cache/catalog/product/apple/X%2064GB-800x800.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Iphone X",
+                  "harga_produk": "12.500.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "Iphone XR",
-          "text": "Rp 10.000.000",
-          "image_url": "https://res.cloudinary.com/spectrumobile/image/fetch/e_trim/w_300,h_300,c_fit,f_auto,q_auto,fl_lossy/https%3A%2F%2Fres.cloudinary.com%2Fspectrumobile%2Fimage%2Fupload%2Fv1536795052%2FSpecturm%2520Mobile%2520Buy%2520Flow%2FApple%2FiPhone%2520XR%2FMRYR2LLA_HERO.png",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Iphone XR",
-                "harga_produk": "10.000.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Iphone XR",
+            "text": "Rp 10.000.000",
+            "image_url": "https://res.cloudinary.com/spectrumobile/image/fetch/e_trim/w_300,h_300,c_fit,f_auto,q_auto,fl_lossy/https%3A%2F%2Fres.cloudinary.com%2Fspectrumobile%2Fimage%2Fupload%2Fv1536795052%2FSpecturm%2520Mobile%2520Buy%2520Flow%2FApple%2FiPhone%2520XR%2FMRYR2LLA_HERO.png",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Iphone XR",
+                  "harga_produk": "10.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        }
-      ],
-      "type": "carousel"
-    }
-  ]
-}
-{
-  "chats": [
-    {
-      "columns": [
-        {
-          "title": "Redmi Note 9 Pro",
-          "text": "Rp 3.400.000",
-          "image_url": "https://gizmologi.id/wp-content/uploads/2020/03/redmi_note_9_pro_3.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Redmi Note 9 Pro",
-                "harga_produk": "3.400.000"
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  },
+  "android":
+  {
+    "chats": [
+      {
+        "columns": [
+          {
+            "title": "Redmi Note 9 Pro",
+            "text": "Rp 3.400.000",
+            "image_url": "https://gizmologi.id/wp-content/uploads/2020/03/redmi_note_9_pro_3.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Redmi Note 9 Pro",
+                  "harga_produk": "3.400.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "Samsung S20 Ultra",
-          "text": "Rp 18.500.000",
-          "image_url": "https://i.ytimg.com/vi/MjBY_Y9N3Us/maxresdefault.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Samsung S20 Ultra",
-                "harga_produk": "18.500.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Samsung S20 Ultra",
+            "text": "Rp 18.500.000",
+            "image_url": "https://i.ytimg.com/vi/MjBY_Y9N3Us/maxresdefault.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Samsung S20 Ultra",
+                  "harga_produk": "18.500.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "Samsung Galaxy Z Flip",
-          "text": "Rp 22.000.000",
-          "image_url": "https://images.samsung.com/ae/smartphones/galaxy-z-flip/images/galaxy-z-flip-share-image.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Samsung Galaxy Z Flip",
-                "harga_produk": "22.000.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Samsung Galaxy Z Flip",
+            "text": "Rp 22.000.000",
+            "image_url": "https://images.samsung.com/ae/smartphones/galaxy-z-flip/images/galaxy-z-flip-share-image.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Samsung Galaxy Z Flip",
+                  "harga_produk": "22.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        }
-      ],
-      "type": "carousel"
-    }
-  ]
-}
-{
-  "chats": [
-    {
-      "columns": [
-        {
-          "title": "Acer Nitro 5",
-          "text": "Rp 8.000.000",
-          "image_url": "https://www.amd-id.com/wp-content/uploads/2020/02/Multimedia-ACER-Nitro-5.png",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Acer Nitro 5",
-                "harga_produk": "8.000.000"
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  },
+  "laptop_windows":
+  {
+    "chats": [
+      {
+        "columns": [
+          {
+            "title": "Acer Nitro 5",
+            "text": "Rp 8.000.000",
+            "image_url": "https://www.amd-id.com/wp-content/uploads/2020/02/Multimedia-ACER-Nitro-5.png",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Acer Nitro 5",
+                  "harga_produk": "8.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "Asus Vivobook 14",
-          "text": "Rp 5.000.000",
-          "image_url": "https://dlcdnimgs.asus.com/websites/ID/PDCustomizedKVSection/video/4524.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Asus Vivobook 14",
-                "harga_produk": "5.000.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Asus Vivobook 14",
+            "text": "Rp 5.000.000",
+            "image_url": "https://dlcdnimgs.asus.com/websites/ID/PDCustomizedKVSection/video/4524.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Asus Vivobook 14",
+                  "harga_produk": "5.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "Asus Zenbook Duo",
-          "text": "Rp 15.000.000",
-          "image_url": "https://internationalinvestorclub.com/wp-content/uploads/2019/12/ASUS-Zenbook-Duo-Pro-Duo.png",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Asus Zenbook Duo",
-                "harga_produk": "15.000.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Asus Zenbook Duo",
+            "text": "Rp 15.000.000",
+            "image_url": "https://internationalinvestorclub.com/wp-content/uploads/2019/12/ASUS-Zenbook-Duo-Pro-Duo.png",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Asus Zenbook Duo",
+                  "harga_produk": "15.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        }
-      ],
-      "type": "carousel"
-    }
-  ]
-}
-{
-  "chats": [
-    {
-      "columns": [
-        {
-          "title": "Macbook Pro 16",
-          "text": "Rp 36.000.000",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/VQGBDwhsBz9xx4w5dXdDb6-480-80.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Macbook Pro 16",
-                "harga_produk": "36.000.000"
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  },
+  "laptop_mac":
+  {
+    "chats": [
+      {
+        "columns": [
+          {
+            "title": "Macbook Pro 16",
+            "text": "Rp 36.000.000",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/VQGBDwhsBz9xx4w5dXdDb6-480-80.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Macbook Pro 16",
+                  "harga_produk": "36.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "Macbook Air 13 inch 2019",
-          "text": "Rp 15.000.000",
-          "image_url": "https://cdn.pocket-lint.com/r/s/970x/assets/images/148821-laptops-review-apple-macbook-air-2019-review-image1-rjq8dgayx5-jpg.webp",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "Macbook Air 13 inch 2019",
-                "harga_produk": "15.000.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Macbook Air 13 inch 2019",
+            "text": "Rp 15.000.000",
+            "image_url": "https://cdn.pocket-lint.com/r/s/970x/assets/images/148821-laptops-review-apple-macbook-air-2019-review-image1-rjq8dgayx5-jpg.webp",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "Macbook Air 13 inch 2019",
+                  "harga_produk": "15.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        },
-        {
-          "title": "iMac Pro",
-          "text": "Rp 81.000.000",
-          "image_url": "https://cnet3.cbsistatic.com/img/op2QRQQhhINLa7Iu3dpg24Hxons=/1200x675/2017/12/13/86f84dd4-18f8-4bc2-9362-df1df2ab4f78/01-apple-imac-pro.jpg",
-          "buttons": [
-            {
-              "label": "Beli",
-              "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
-              "variable": {
-                "nama_produk": "iMac Pro",
-                "harga_produk": "81.000.000"
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iMac Pro",
+            "text": "Rp 81.000.000",
+            "image_url": "https://cnet3.cbsistatic.com/img/op2QRQQhhINLa7Iu3dpg24Hxons=/1200x675/2017/12/13/86f84dd4-18f8-4bc2-9362-df1df2ab4f78/01-apple-imac-pro.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5f06d6c720f83730309ddf1d",
+                "variable": {
+                  "nama_produk": "iMac Pro",
+                  "harga_produk": "81.000.000"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5f05303220f8373f864b31f0"
               }
-            },
-            {
-              "label": "Kembali",
-              "type": "path",
-              "path": "5f05303220f8373f864b31f0"
-            }
-          ],
-          "type": "button"
-        }
-      ],
-      "type": "carousel"
-    }
-  ]
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  }
 }
