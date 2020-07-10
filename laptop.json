@@ -13,8 +13,7 @@
               "path": "5f06d6c720f83730309ddf1d",
               "variable": {
                 "nama_produk": "Acer Nitro 5",
-                "harga_produk": "8.000.000",
-                "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                "harga_produk": "8.000.000"
               }
             },
             {
@@ -36,8 +35,7 @@
               "path": "5f06d6c720f83730309ddf1d",
               "variable": {
                 "nama_produk": "Asus Vivobook 14",
-                "harga_produk": "5.000.000",
-                "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                "harga_produk": "5.000.000"
               }
             },
             {
@@ -59,8 +57,7 @@
               "path": "5f06d6c720f83730309ddf1d",
               "variable": {
                 "nama_produk": "Asus Zenbook Duo",
-                "harga_produk": "15.000.000",
-                "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                "harga_produk": "15.000.000"
               }
             },
             {
