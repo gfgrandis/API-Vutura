@@ -1,0 +1,78 @@
+{
+  "chats": [
+    {
+      "columns": [
+        {
+          "title": "Acer Nitro 5",
+          "text": "Rp 8.000.000",
+          "image_url": "https://www.amd-id.com/wp-content/uploads/2020/02/Multimedia-ACER-Nitro-5.png",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "5f06d6c720f83730309ddf1d",
+              "variable": {
+                "nama_produk": "Acer Nitro 5",
+                "harga_produk": "8.000.000",
+                "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f05303220f8373f864b31f0"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Asus Vivobook 14",
+          "text": "Rp 5.000.000",
+          "image_url": "https://dlcdnimgs.asus.com/websites/ID/PDCustomizedKVSection/video/4524.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "5f06d6c720f83730309ddf1d",
+              "variable": {
+                "nama_produk": "Asus Vivobook 14",
+                "harga_produk": "5.000.000",
+                "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f05303220f8373f864b31f0"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Asus Zenbook Duo",
+          "text": "Rp 15.000.000",
+          "image_url": "https://internationalinvestorclub.com/wp-content/uploads/2019/12/ASUS-Zenbook-Duo-Pro-Duo.png",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "5f06d6c720f83730309ddf1d",
+              "variable": {
+                "nama_produk": "Asus Zenbook Duo",
+                "harga_produk": "15.000.000",
+                "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f05303220f8373f864b31f0"
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    }
+  ]
+}
