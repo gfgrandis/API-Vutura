@@ -302,6 +302,14 @@
       "type": "carousel"
     }
   ]
-}
+},
+  "text_test":{
+    "chats": [
+        {
+            "text" : "coba coba",
+            "type" : "text"
+        }
+    ]
+  }
 }
     
