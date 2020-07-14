@@ -306,8 +306,15 @@
   "text_test":{
     "chats": [
         {
-            "text" : "coba coba",
-            "type" : "text"
+            "text" : "ini adalah button",
+            "buttons" : [
+                {
+                    "label" : "button",
+                    "type": "path",
+                    "path" : "5f05303220f8373f864b31f0"
+                }
+            ],
+            "type" : "button"
         }
     ]
   }
