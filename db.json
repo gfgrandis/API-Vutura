@@ -12,7 +12,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "5f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Iphone 11",
                 "harga_produk": "17000000"
@@ -21,7 +21,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f1024ee20f8377b733b89a5"
             }
           ],
           "type": "button"
@@ -34,7 +34,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Iphone X",
                 "harga_produk": "12500000"
@@ -43,7 +43,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f1024ee20f8377b733b89a5"
             }
           ],
           "type": "button"
@@ -56,7 +56,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Iphone XR",
                 "harga_produk": "10000000"
@@ -65,7 +65,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f1024ee20f8377b733b89a5"
             }
           ],
           "type": "button"
@@ -88,7 +88,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Redmi Note 9 Pro",
                 "harga_produk": "3400000"
@@ -97,7 +97,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f1024ee20f8377b733b89a5"
             }
           ],
           "type": "button"
@@ -110,7 +110,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Samsung S20 Ultra",
                 "harga_produk": "18500000"
@@ -119,7 +119,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f1024ee20f8377b733b89a5"
             }
           ],
           "type": "button"
@@ -132,7 +132,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Samsung Galaxy Z Flip",
                 "harga_produk": "22000000"
@@ -141,7 +141,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f1024ee20f8377b733b89a5"
             }
           ],
           "type": "button"
@@ -164,7 +164,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Acer Nitro 5",
                 "harga_produk": "8000000"
@@ -173,7 +173,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f10250320f8377b733b89a8"
             }
           ],
           "type": "button"
@@ -186,7 +186,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Asus Vivobook 14",
                 "harga_produk": "5000000"
@@ -195,7 +195,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f10250320f8377b733b89a8"
             }
           ],
           "type": "button"
@@ -208,7 +208,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Asus Zenbook Duo",
                 "harga_produk": "15000000"
@@ -217,7 +217,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f10250320f8377b733b89a8"
             }
           ],
           "type": "button"
@@ -240,7 +240,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Macbook Pro 16",
                 "harga_produk": "36000000"
@@ -249,7 +249,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f10250320f8377b733b89a8"
             }
           ],
           "type": "button"
@@ -262,7 +262,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "Macbook Air 13 inch 2019",
                 "harga_produk": "15000000"
@@ -271,7 +271,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f10250320f8377b733b89a8"
             }
           ],
           "type": "button"
@@ -284,7 +284,7 @@
             {
               "label": "Beli",
               "type": "path",
-              "path": "5f06d6c720f83730309ddf1d",
+              "path": "f10255920f8377b733b89ab",
               "variable": {
                 "nama_produk": "iMac Pro",
                 "harga_produk": "81000000"
@@ -293,7 +293,7 @@
             {
               "label": "Kembali",
               "type": "path",
-              "path": "5f05303220f8373f864b31f0"
+              "path": "5f10250320f8377b733b89a8"
             }
           ],
           "type": "button"
