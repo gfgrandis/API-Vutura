@@ -21,23 +21,19 @@ def tambah_produk():
 def tampil_produk():
     nama_produk = []
     harga_produk = []
-    total_harga = 0
-    text_produk = ""
+    isi_keranjang = []
     for x in checkout_db:
         nama_produk.append(x[0])
         harga_produk.append(int(x[1]))
-        total_harga += int(x[1])
 
-    for i in nama_produk:
-        text_produk = text_produk + str(nama_produk)
+    for i in range(len(nama_produk)):
+        keranjang = "\nNama Produk: " + str(nama_produk[i]) + "\nHarga Produk: " + str("Rp{:,.2f}".format(harga_produk[i]))
+        isi_keranjang.append(keranjang)
+
     return jsonify({
         "chats": [
             {
-                "text": "Isi Keranjang \n\nproduk : \n" + str(text_produk),
-                "type": "text"
-            },
-            {
-                "text": "harga : "+ str("Rp{:,.2f}".format(total_harga)),
+                "text": "Isi keranjang\n" + "\n".join(isi_keranjang),
                 "type": "text"
             }
         ]
@@ -59,8 +55,6 @@ def tampil_final_pesanan():
             }
         ]
     })
-
-    
 
 if __name__ == '__main__':
     app.run(port=5000)
