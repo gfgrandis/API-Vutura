@@ -11,16 +11,16 @@
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "Acer Nitro 5",
-                  "harga_produk": "8.000.000"
+                  "harga_produk": "8000000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f10250320f8377b733b89a8"
               }
             ],
             "type": "button"
@@ -33,16 +33,16 @@
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "Asus Vivobook 14",
-                  "harga_produk": "5.000.000"
+                  "harga_produk": "5000000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f10250320f8377b733b89a8"
               }
             ],
             "type": "button"
@@ -55,16 +55,16 @@
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "Asus Zenbook Duo",
-                  "harga_produk": "15.000.000"
+                  "harga_produk": "15000000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f10250320f8377b733b89a8"
               }
             ],
             "type": "button"
@@ -80,66 +80,66 @@
         "columns": [
           {
             "title": "Macbook Pro 16 2019",
-            "text": "Rp 8.000.000",
-            "image_url": "https://www.amd-id.com/wp-content/uploads/2020/02/Multimedia-ACER-Nitro-5.png",
+            "text": "Rp 36.000.000",
+            "image_url": "https://pemmzchannel.com/wp-content/uploads/2020/03/Apple-MacBook-Pro.jpg",
             "buttons": [
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "Macbook Pro 16 2019",
-                  "harga_produk": "8.000.000"
+                  "harga_produk": "36000000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f10250320f8377b733b89a8"
               }
             ],
             "type": "button"
           },
           {
-            "title": "Asus Vivobook 14",
-            "text": "Rp 5.000.000",
-            "image_url": "https://dlcdnimgs.asus.com/websites/ID/PDCustomizedKVSection/video/4524.jpg",
+            "title": "Macbook Air 13 2019",
+            "text": "Rp 16.000.000",
+            "image_url": "https://i.pcmag.com/imagery/reviews/05LXWfM1KdbGDpwYgreAMVz-25..v_1569479597.jpg",
             "buttons": [
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
-                  "nama_produk": "Asus Vivobook 14",
-                  "harga_produk": "5.000.000"
+                  "nama_produk": "Macbook Air 13 2019",
+                  "harga_produk": "16000000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f10250320f8377b733b89a8"
               }
             ],
             "type": "button"
           },
           {
-            "title": "Asus Zenbook Duo",
-            "text": "Rp 15.000.000",
-            "image_url": "https://internationalinvestorclub.com/wp-content/uploads/2019/12/ASUS-Zenbook-Duo-Pro-Duo.png",
+            "title": "Macbook Pro Retina 2019",
+            "text": "Rp 22.000.000",
+            "image_url": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/07/10/3958746736.jpg",
             "buttons": [
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
-                  "nama_produk": "Asus Zenbook Duo",
-                  "harga_produk": "15.000.000"
+                  "nama_produk": "Macbook Pro Retina 2019",
+                  "harga_produk": "22000000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f10250320f8377b733b89a8"
               }
             ],
             "type": "button"
@@ -156,12 +156,12 @@
           {
             "title": "Samsung S20+ Ultra",
             "text": "Rp 8.000.000",
-            "image_url": "https://www.amd-id.com/wp-content/uploads/2020/02/Multimedia-ACER-Nitro-5.png",
+            "image_url": "https://asset.kompas.com/crops/NqGbRdSvoJbudWrrijlF2BWtd00=/0x148:3024x2164/750x500/data/photo/2020/02/14/5e46775e913ca.jpg",
             "buttons": [
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "Samsung S20+ Ultra",
                   "harga_produk": "8.000.000"
@@ -170,51 +170,51 @@
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f1024ee20f8377b733b89a5"
               }
             ],
             "type": "button"
           },
           {
             "title": "Samsung Z Flip",
-            "text": "Rp 5.000.000",
-            "image_url": "https://dlcdnimgs.asus.com/websites/ID/PDCustomizedKVSection/video/4524.jpg",
+            "text": "Rp 29.000.000",
+            "image_url": "https://d2pa5gi5n2e1an.cloudfront.net/id/images/article/9585_ID/9.jpg",
             "buttons": [
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
-                  "nama_produk": "Asus Vivobook 14",
-                  "harga_produk": "5.000.000"
+                  "nama_produk": "Samsung Z Flip",
+                  "harga_produk": "29.000.000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f1024ee20f8377b733b89a5"
               }
             ],
             "type": "button"
           },
           {
             "title": "Xiaomi Redmi Note 9 Pro",
-            "text": "Rp 15.000.000",
-            "image_url": "https://internationalinvestorclub.com/wp-content/uploads/2019/12/ASUS-Zenbook-Duo-Pro-Duo.png",
+            "text": "Rp 3.000.000",
+            "image_url": "https://cdn2.tstatic.net/ternate/foto/bank/images2/varian-warna-xiaomi-redmi-note-9-pro.jpg",
             "buttons": [
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5f06d6c720f83730309ddf1d",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
-                  "nama_produk": "Asus Zenbook Duo",
-                  "harga_produk": "15.000.000"
+                  "nama_produk": "Xiaomi Redmi Note 9 Pro",
+                  "harga_produk": "3.000.000"
                 }
               },
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5f05303220f8373f864b31f0"
+                "path": "5f1024ee20f8377b733b89a5"
               }
             ],
             "type": "button"
@@ -236,7 +236,7 @@
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5ed9ebd020f8374bf65abbe6",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "iPhone XR",
                   "harga_produk": "10.000.000"
@@ -245,7 +245,7 @@
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5ed5f3ac20f8374bf65aa6a5"
+                "path": "5f1024ee20f8377b733b89a5"
               }
             ],
             "type": "button"
@@ -258,7 +258,7 @@
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5ed9ebd020f8374bf65abbe6",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "iPhone 11",
                   "harga_produk": "10.000.000"
@@ -267,7 +267,7 @@
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5ed5f3ac20f8374bf65aa6a5"
+                "path": "5f1024ee20f8377b733b89a5"
               }
             ],
             "type": "button"
@@ -280,7 +280,7 @@
               {
                 "label": "Beli",
                 "type": "path",
-                "path": "5ed9ebd020f8374bf65abbe6",
+                "path": "5f10255920f8377b733b89ab",
                 "variable": {
                   "nama_produk": "iPhone 11 Pro",
                   "harga_produk": "15.000.000"
@@ -289,7 +289,7 @@
               {
                 "label": "Kembali",
                 "type": "path",
-                "path": "5ed5f3ac20f8374bf65aa6a5"
+                "path": "5f1024ee20f8377b733b89a5"
               }
             ],
             "type": "button"
