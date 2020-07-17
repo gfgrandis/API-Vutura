@@ -1,0 +1,324 @@
+{
+  "promotion": {
+    "chats": [
+      {
+        "columns": [
+          {
+            "title": "Macbook Air{{keranjangbelanja}}",
+            "text": "Rp 15.000.000",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/TaicKGcS88HAJ9eHtx6JwH-970-80.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "Macbook Air",
+                  "harga_produk": "15.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5b85920f8374bf65aa244"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iPhone XR",
+            "text": "Rp 10.000.000",
+            "image_url": "https://images.macrumors.com/t/zdxcJJzI5yIImRw7WAyJgiT03_M=/400x0/filters:quality(90)/article-new/2018/09/iphonexr.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPhone XR",
+                  "harga_produk": "10.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5b85920f8374bf65aa244"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iPad 7",
+            "text": "Rp 6.000.000",
+            "image_url": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2019/09/11/2587811558.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPad 7",
+                  "harga_produk": "6.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5b85920f8374bf65aa244"
+              }
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  },
+  "keranjang": {
+    "chats": [
+      {
+        "variable": {
+          "keranjangbelanja": ""
+        },
+        "type": "variable"
+      }
+    ]
+  },
+  "laptop": {
+    "chats": [
+      {
+        "columns": [
+          {
+            "title": "Macbook Air",
+            "text": "Rp 15.000.000",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/TaicKGcS88HAJ9eHtx6JwH-970-80.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "Macbook Air",
+                  "harga_produk": "15.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "Macbook Pro",
+            "text": "Rp 30.000.000",
+            "image_url": "https://sm.pcmag.com/t/pcmag_ap/review/a/apple-macb/apple-macbook-pro-16-inch_e1zs.640.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "Macbook Pro",
+                  "harga_produk": "30.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iMac",
+            "text": "Rp 20.000.000",
+            "image_url": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/m/imac-27-cto-hero-201903_1_1.jpeg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iMac",
+                  "harga_produk": "20.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  },
+  "ipad": {
+    "chats": [
+      {
+        "columns": [
+          {
+            "title": "iPad Air 2019",
+            "text": "Rp 8.000.000",
+            "image_url": "https://www.gizmochina.com/wp-content/uploads/2019/03/Apple-iPad-Air-2019-500x500.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPad Air 2019",
+                  "harga_produk": "8.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iPad 7",
+            "text": "Rp 5.000.000",
+            "image_url": "https://s.blanja.com/picspace/56/305208/700.462_e3cc17e2d3ae4faa8102dcb0435bba35.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPad 7",
+                  "harga_produk": "5.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iPad Pro",
+            "text": "Rp 20.000.000",
+            "image_url": "https://icdn3.digitaltrends.com/image/digitaltrends/ipad-pro-2018-review-5848-768x479-c.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPad Pro",
+                  "harga_produk": "20.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  },
+  "iphone": {
+    "chats": [
+      {
+        "columns": [
+          {
+            "title": "iPhone XR",
+            "text": "Rp 10.000.000",
+            "image_url": "https://p.ipricegroup.com/uploaded_a545ecc174943263565ec786c03b9fdf.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPhone XR",
+                  "harga_produk": "10.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iPhone 11",
+            "text": "Rp 10.000.000",
+            "image_url": "https://id-test-11.slatic.net/p/abbbe4a6e24b6658229755b18352e254.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPhone 11",
+                  "harga_produk": "10.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          },
+          {
+            "title": "iPhone 11 Pro",
+            "text": "Rp 15.000.000",
+            "image_url": "https://p.ipricegroup.com/uploaded_df23273ab706197931c6092e3b2b40e5.jpg",
+            "buttons": [
+              {
+                "label": "Beli",
+                "type": "path",
+                "path": "5ed9ebd020f8374bf65abbe6",
+                "variable": {
+                  "nama_produk": "iPhone 11 Pro",
+                  "harga_produk": "15.000.000",
+                  "keranjangbelanja": "{{keranjangbelanja}}\\n{{nama_produk}} - {{harga_produk}}"
+                }
+              },
+              {
+                "label": "Kembali",
+                "type": "path",
+                "path": "5ed5f3ac20f8374bf65aa6a5"
+              }
+            ],
+            "type": "button"
+          }
+        ],
+        "type": "carousel"
+      }
+    ]
+  }
+}
